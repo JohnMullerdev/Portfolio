@@ -1,1 +1,7 @@
-# Portfólio - Feito com HTML E CSS. Site todo responsívo, você aacessar em qualquer dispositivo: tablet, celular etc. 
+# Portfólio - Feito com HTML E CSS. 
+
+
+# Tecnologia utilizada:
+
+
+Feito com HTML E CSS
