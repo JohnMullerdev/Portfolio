@@ -1,4 +1,5 @@
-# Portfólio - Feito com HTML E CSS. 
+# Portfólio - 
+Site todo responsívo, você pode acessar em qualquer dispositivo: tablet, celular etc. 
 
 
 # Tecnologia utilizada:
